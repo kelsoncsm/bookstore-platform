@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\building-blocks\BookStore.BuildingBlocks\BookStore.BuildingBlocks.csproj" />
+    <ProjectReference Include="..\BookStore.OrderService.Application\BookStore.OrderService.Application.csproj" />
+    <ProjectReference Include="..\BookStore.OrderService.Domain\BookStore.OrderService.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LdfQu3VHSx0=",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\gateway\\BookStore.ApiGateway\\BookStore.ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kelso\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kelso\\.nuget\\packages\\yarp.reverseproxy\\2.2.0\\yarp.reverseproxy.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

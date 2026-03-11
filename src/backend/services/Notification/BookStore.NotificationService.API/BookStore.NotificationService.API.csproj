@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\building-blocks\BookStore.BuildingBlocks\BookStore.BuildingBlocks.csproj" />
+    <ProjectReference Include="..\BookStore.NotificationService.Application\BookStore.NotificationService.Application.csproj" />
+    <ProjectReference Include="..\BookStore.NotificationService.Infrastructure\BookStore.NotificationService.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
