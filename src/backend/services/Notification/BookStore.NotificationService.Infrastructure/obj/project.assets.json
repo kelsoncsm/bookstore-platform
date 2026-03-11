@@ -69,11 +69,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Infrastructure\\BookStore.NotificationService.Infrastructure.csproj",
+      "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Infrastructure\\BookStore.NotificationService.Infrastructure.csproj",
       "projectName": "BookStore.NotificationService.Infrastructure",
-      "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Infrastructure\\BookStore.NotificationService.Infrastructure.csproj",
+      "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Infrastructure\\BookStore.NotificationService.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Infrastructure\\obj\\",
+      "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -95,14 +95,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-              "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+            "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+              "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
             },
-            "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Application\\BookStore.NotificationService.Application.csproj": {
-              "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Application\\BookStore.NotificationService.Application.csproj"
+            "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Application\\BookStore.NotificationService.Application.csproj": {
+              "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Application\\BookStore.NotificationService.Application.csproj"
             },
-            "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Domain\\BookStore.NotificationService.Domain.csproj": {
-              "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Domain\\BookStore.NotificationService.Domain.csproj"
+            "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Domain\\BookStore.NotificationService.Domain.csproj": {
+              "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Notification\\BookStore.NotificationService.Domain\\BookStore.NotificationService.Domain.csproj"
             }
           }
         }

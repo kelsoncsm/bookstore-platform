@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Infrastructure\\BookStore.CatalogService.Infrastructure.csproj": {}
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Infrastructure\\BookStore.CatalogService.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
         "projectName": "BookStore.BuildingBlocks",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\BookStore.CatalogService.Application.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\BookStore.CatalogService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\BookStore.CatalogService.Application.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\BookStore.CatalogService.Application.csproj",
         "projectName": "BookStore.CatalogService.Application",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\BookStore.CatalogService.Application.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\BookStore.CatalogService.Application.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,11 +99,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj",
         "projectName": "BookStore.CatalogService.Domain",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -209,14 +209,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Infrastructure\\BookStore.CatalogService.Infrastructure.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Infrastructure\\BookStore.CatalogService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Infrastructure\\BookStore.CatalogService.Infrastructure.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Infrastructure\\BookStore.CatalogService.Infrastructure.csproj",
         "projectName": "BookStore.CatalogService.Infrastructure",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Infrastructure\\BookStore.CatalogService.Infrastructure.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Infrastructure\\BookStore.CatalogService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Infrastructure\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -238,14 +238,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\BookStore.CatalogService.Application.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\BookStore.CatalogService.Application.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\BookStore.CatalogService.Application.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Application\\BookStore.CatalogService.Application.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Catalog\\BookStore.CatalogService.Domain\\BookStore.CatalogService.Domain.csproj"
               }
             }
           }

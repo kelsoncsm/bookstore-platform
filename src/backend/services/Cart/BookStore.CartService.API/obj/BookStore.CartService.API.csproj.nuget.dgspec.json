@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.API\\BookStore.CartService.API.csproj": {}
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.API\\BookStore.CartService.API.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
         "projectName": "BookStore.BuildingBlocks",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.API\\BookStore.CartService.API.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.API\\BookStore.CartService.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.API\\BookStore.CartService.API.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.API\\BookStore.CartService.API.csproj",
         "projectName": "BookStore.CartService.API",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.API\\BookStore.CartService.API.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.API\\BookStore.CartService.API.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.API\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,14 +99,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\BookStore.CartService.Infrastructure.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\BookStore.CartService.Infrastructure.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\BookStore.CartService.Infrastructure.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\BookStore.CartService.Infrastructure.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj",
         "projectName": "BookStore.CartService.Application",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,11 +188,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj"
               }
             }
           }
@@ -232,14 +232,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj",
         "projectName": "BookStore.CartService.Domain",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -298,14 +298,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\BookStore.CartService.Infrastructure.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\BookStore.CartService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\BookStore.CartService.Infrastructure.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\BookStore.CartService.Infrastructure.csproj",
         "projectName": "BookStore.CartService.Infrastructure",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\BookStore.CartService.Infrastructure.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\BookStore.CartService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -327,14 +327,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Application\\BookStore.CartService.Application.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8EwrK2vKEsI=",
+  "dgSpecHash": "6WNVk/KGP1I=",
   "success": true,
-  "projectFilePath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj",
+  "projectFilePath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

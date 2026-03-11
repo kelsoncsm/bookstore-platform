@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uPBErffVdmA=",
+  "dgSpecHash": "l116HMQuk5g=",
   "success": true,
-  "projectFilePath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\BookStore.IdentityService.API.csproj",
+  "projectFilePath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\BookStore.IdentityService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kelso\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",
     "C:\\Users\\Kelso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.API\\BookStore.InventoryService.API.csproj": {}
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.API\\BookStore.InventoryService.API.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
         "projectName": "BookStore.BuildingBlocks",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.API\\BookStore.InventoryService.API.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.API\\BookStore.InventoryService.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.API\\BookStore.InventoryService.API.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.API\\BookStore.InventoryService.API.csproj",
         "projectName": "BookStore.InventoryService.API",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.API\\BookStore.InventoryService.API.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.API\\BookStore.InventoryService.API.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.API\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,14 +99,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\BookStore.InventoryService.Infrastructure.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\BookStore.InventoryService.Infrastructure.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\BookStore.InventoryService.Infrastructure.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\BookStore.InventoryService.Infrastructure.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj",
         "projectName": "BookStore.InventoryService.Application",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,11 +188,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj"
               }
             }
           }
@@ -232,14 +232,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj",
         "projectName": "BookStore.InventoryService.Domain",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -298,14 +298,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\BookStore.InventoryService.Infrastructure.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\BookStore.InventoryService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\BookStore.InventoryService.Infrastructure.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\BookStore.InventoryService.Infrastructure.csproj",
         "projectName": "BookStore.InventoryService.Infrastructure",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\BookStore.InventoryService.Infrastructure.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\BookStore.InventoryService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -327,14 +327,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Application\\BookStore.InventoryService.Application.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UhXbnb77Kag=",
+  "dgSpecHash": "9wlFskP78xw=",
   "success": true,
-  "projectFilePath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Order\\BookStore.OrderService.Application\\BookStore.OrderService.Application.csproj",
+  "projectFilePath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Order\\BookStore.OrderService.Application\\BookStore.OrderService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

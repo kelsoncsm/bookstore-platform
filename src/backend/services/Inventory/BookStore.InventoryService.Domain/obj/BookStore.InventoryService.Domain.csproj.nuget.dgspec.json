@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj": {}
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj",
         "projectName": "BookStore.InventoryService.Domain",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\BookStore.InventoryService.Domain.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Inventory\\BookStore.InventoryService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

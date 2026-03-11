@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj": {}
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj",
         "projectName": "BookStore.CartService.Domain",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

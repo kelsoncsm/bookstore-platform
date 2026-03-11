@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d3IuNmta3qM=",
+  "dgSpecHash": "7hifc1npQ2w=",
   "success": true,
-  "projectFilePath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj",
+  "projectFilePath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Cart\\BookStore.CartService.Domain\\BookStore.CartService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\BookStore.IdentityService.API.csproj": {}
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\BookStore.IdentityService.API.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
         "projectName": "BookStore.BuildingBlocks",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\BookStore.IdentityService.API.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\BookStore.IdentityService.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\BookStore.IdentityService.API.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\BookStore.IdentityService.API.csproj",
         "projectName": "BookStore.IdentityService.API",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\BookStore.IdentityService.API.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\BookStore.IdentityService.API.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,14 +99,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\BookStore.IdentityService.Infrastructure.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\BookStore.IdentityService.Infrastructure.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\BookStore.IdentityService.Infrastructure.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\BookStore.IdentityService.Infrastructure.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj",
         "projectName": "BookStore.IdentityService.Application",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,11 +188,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj"
               }
             }
           }
@@ -232,14 +232,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj",
         "projectName": "BookStore.IdentityService.Domain",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -298,14 +298,14 @@
         }
       }
     },
-    "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\BookStore.IdentityService.Infrastructure.csproj": {
+    "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\BookStore.IdentityService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\BookStore.IdentityService.Infrastructure.csproj",
+        "projectUniqueName": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\BookStore.IdentityService.Infrastructure.csproj",
         "projectName": "BookStore.IdentityService.Infrastructure",
-        "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\BookStore.IdentityService.Infrastructure.csproj",
+        "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\BookStore.IdentityService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Kelso\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\obj\\",
+        "outputPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -327,14 +327,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\building-blocks\\BookStore.BuildingBlocks\\BookStore.BuildingBlocks.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Application\\BookStore.IdentityService.Application.csproj"
               },
-              "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj": {
-                "projectPath": "D:\\source\\repos\\github\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj"
+              "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj": {
+                "projectPath": "D:\\source\\repos\\bookstore-platform\\src\\backend\\services\\Identity\\BookStore.IdentityService.Domain\\BookStore.IdentityService.Domain.csproj"
               }
             }
           }
